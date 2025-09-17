@@ -1,0 +1,27 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+}
+.box {
+  background-color: white;
+  width: 384px;
+  height: 522px;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 24px;
+  margin: auto
+}
+.boximage{
+border-radius: 10px;
+width: 100%;
+}
+.authorimage{
+width:32px;
+height:32px;
+}
+.author {
+  display:flex;
+}
+.authorname{
+  margin:12px;
+ 
+}
